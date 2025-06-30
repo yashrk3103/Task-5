@@ -23,21 +23,21 @@ Capture live network packets on Kali Linux and identify at least 3 protocols: **
 ### 1️⃣ Domain Name System (DNS)
 - **Purpose:** Resolves domain names (e.g., google.com) to IP addresses.
 - **Example:** Standard DNS query and response for google.com.
-- ![DNS Screenshot](images/DNS.png)
+- ![DNS Screenshot](Screenshots/DNS.png)
 
 ---
 
 ### 2️⃣ Transmission Control Protocol (TCP)
 - **Purpose:** Reliable, connection-oriented protocol for data transfer.
 - **Example:** TCP handshakes (SYN, ACK) between client and server.
-- ![TCP Screenshot](images/tcp.png)
+- ![TCP Screenshot](Screenshots/tcp.png)
 
 ---
 
 ### 3️⃣ Hypertext Transfer Protocol (HTTP)
 - **Purpose:** Protocol for unencrypted web communication (port 80).
 - **Example:** HTTP GET requests for web resources.
-- ![HTTP Screenshot](images/http.png)
+- ![HTTP Screenshot](Screenshots/http.png)
 
 ---
 
