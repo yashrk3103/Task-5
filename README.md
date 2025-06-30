@@ -44,9 +44,9 @@ Capture live network packets on Kali Linux and identify at least 3 protocols: **
 ## 📁 Files in This Repo
 - `task5_kali_capture.pcap` – Packet capture file.
 - `README.md` – This report.
-- `images/DNS.png` – DNS protocol screenshot.
-- `images/tcp.png` – TCP protocol screenshot.
-- `images/http.png` – HTTP protocol screenshot.
+- `Screenshots/DNS.png` – DNS protocol screenshot.
+- `Screenshots/tcp.png` – TCP protocol screenshot.
+- `Screenshots/http.png` – HTTP protocol screenshot.
 
 ---
 
